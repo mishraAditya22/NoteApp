@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NoteApp/static/css/main.1a5f94d1.css",
+    "main.js": "/NoteApp/static/js/main.0f9a00ee.js",
+    "static/media/img3.jpg": "/NoteApp/static/media/img3.a10f09ccf8c861cf62fd.jpg",
+    "index.html": "/NoteApp/index.html",
+    "main.1a5f94d1.css.map": "/NoteApp/static/css/main.1a5f94d1.css.map",
+    "main.0f9a00ee.js.map": "/NoteApp/static/js/main.0f9a00ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5f94d1.css",
+    "static/js/main.0f9a00ee.js"
+  ]
+}
